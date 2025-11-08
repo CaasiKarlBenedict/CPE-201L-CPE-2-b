@@ -1,0 +1,146 @@
+{
+  "medicines": [
+    [
+      1,
+      "Paracetamol 500mg",
+      20,
+      10,
+      200,
+      "2026-12-31"
+    ],
+    [
+      2,
+      "Ibuprofen 400mg",
+      15,
+      12,
+      180,
+      "2026-11-30"
+    ],
+    [
+      3,
+      "Aspirin 100mg",
+      25,
+      8,
+      200,
+      "2027-01-15"
+    ],
+    [
+      4,
+      "Amoxicillin 500mg",
+      10,
+      14,
+      140,
+      "2026-10-20"
+    ],
+    [
+      5,
+      "Cetirizine 10mg",
+      18,
+      10,
+      180,
+      "2027-02-28"
+    ],
+    [
+      6,
+      "Omeprazole 20mg",
+      12,
+      7,
+      84,
+      "2026-09-30"
+    ],
+    [
+      7,
+      "Metformin 500mg",
+      22,
+      10,
+      220,
+      "2027-03-15"
+    ],
+    [
+      8,
+      "Atorvastatin 20mg",
+      8,
+      14,
+      112,
+      "2026-12-20"
+    ],
+    [
+      9,
+      "Salbutamol Inhaler",
+      5,
+      1,
+      5,
+      "2027-01-10"
+    ],
+    [
+      10,
+      "Diclofenac 50mg",
+      16,
+      10,
+      160,
+      "2026-11-15"
+    ]
+  ],
+  "equipment": [
+    [
+      1,
+      "Stethoscope",
+      8,
+      "Available"
+    ],
+    [
+      2,
+      "Digital Thermometer",
+      12,
+      "Available"
+    ],
+    [
+      3,
+      "Blood Pressure Monitor",
+      6,
+      "Available"
+    ],
+    [
+      4,
+      "Oxygen Tank",
+      4,
+      "Available"
+    ],
+    [
+      5,
+      "Nebulizer Machine",
+      3,
+      "In Use"
+    ],
+    [
+      6,
+      "ECG Machine",
+      2,
+      "Available"
+    ],
+    [
+      7,
+      "Defibrillator",
+      1,
+      "Available"
+    ],
+    [
+      8,
+      "Surgical Gloves (Box)",
+      25,
+      "Available"
+    ],
+    [
+      9,
+      "Syringes (Box)",
+      30,
+      "Available"
+    ],
+    [
+      10,
+      "First Aid Kit",
+      5,
+      "Available"
+    ]
+  ]
+}
